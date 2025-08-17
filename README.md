@@ -5,9 +5,9 @@ Simple Calculator app using FLUTTER
 only in one page (main.dart)
 
 Operations:
-Addition 
-Subtraction
-Multiplication
+Addition,
+Subtraction,
+Multiplication,
 Division
 
 Easy to use and learn
@@ -16,9 +16,11 @@ Beginner friendly
 
 Dependencies :   math_expressions: ^3.1.0
 
-No Copyright
+No Copyright code
 
 Feel free for use code and Collabrate with us
+
+Don't forget to see pubsec.yaml
 
 Screenshot:
 
