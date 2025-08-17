@@ -1,6 +1,18 @@
 Calculator App
 
-Simple_Function_Calculator app using FLUTTER
+Simple Calculator app using FLUTTER 
+
+only in one page (main.dart)
+
+Operations:
+Addition 
+Subtraction
+Multiplication
+Division
+
+Easy to use and learn
+
+Beginner friendly
 
 Dependencies :   math_expressions: ^3.1.0
 
