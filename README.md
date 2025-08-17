@@ -1,13 +1,10 @@
-# Simple_Calculator_App
-Simple Caluclator app using Flutter
+# calculator
 
-Dependencies : math_expression^3.1.0
+A new Flutter project.
 
-One page code (main.dart)
+## Getting Started
 
-Feel free for use , No Copyright code 
+This project is a starting point for a Flutter application.
 
-Feel free for collabrate with us
 
-Screenshot:
 
